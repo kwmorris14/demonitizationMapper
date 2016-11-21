@@ -1,0 +1,14 @@
+{
+  "name": "demonitizationmapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:kmorris14/demonitizationmapper.git",
+  "author": "Keith Morris <kmorris@icct.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google/maps": "^0.3.0",
+    "jasmine": "^2.5.2",
+    "jquery": "^3.1.1",
+    "require": "^2.4.20"
+  }
+}
